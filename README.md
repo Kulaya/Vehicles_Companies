@@ -1,5 +1,3 @@
-The provided code uses k-nearest neighbor (KNN) algorithm to recommend vehicle brands based on their similarity to a liked brand. Here's a short summary of the code:
-
 The code imports the necessary libraries including csv, torch, BertTokenizer and BertModel from the Transformers library, and cosine_similarity from scikit-learn.
 
 It loads a pre-trained BERT tokenizer and model (bert-base-uncased) for generating BERT embeddings.
